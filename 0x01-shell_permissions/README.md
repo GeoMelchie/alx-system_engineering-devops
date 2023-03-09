@@ -1,1 +1,1 @@
-chown betty
+SHELL_PERMISSIONS

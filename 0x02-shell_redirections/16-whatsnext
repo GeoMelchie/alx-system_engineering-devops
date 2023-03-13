@@ -1,0 +1,2 @@
+#!/bin/bash
+grep | next -n 3 "root" > /etc/passwd

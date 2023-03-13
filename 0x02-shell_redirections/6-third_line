@@ -1,2 +1,2 @@
 #!/bin/bash
-grep > thirdline | iacta
+head -3 iacta

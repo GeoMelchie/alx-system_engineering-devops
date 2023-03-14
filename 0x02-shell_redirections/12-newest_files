@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l new 10
+ls -t | head
